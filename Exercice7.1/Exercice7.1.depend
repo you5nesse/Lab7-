@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1792785388 source:c:\users\pc\documents\sql_lab1\exercice7.1\main.cpp
+	<iostream>
+	<Contact.h>
+
+1792785388 c:\users\pc\documents\sql_lab1\exercice7.1\include\contact.h
+	<iostream>
+

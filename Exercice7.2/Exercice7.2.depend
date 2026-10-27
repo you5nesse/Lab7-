@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1792788103 source:c:\users\pc\documents\sql_lab1\exercice7.2\main.cpp
+	<iostream>
+	<Facture.h>
+
+1792798488 c:\users\pc\documents\sql_lab1\exercice7.2\include\facture.h
+	<iostream>
+	<string>
+	<vector>
+
